@@ -1,0 +1,1 @@
+export default function Loading() { return <main className="container-shell flex min-h-[60vh] items-center justify-center"><div className="size-10 animate-spin rounded-full border-4 border-primary/20 border-t-primary" aria-label="جارٍ التحميل" /></main>; }
